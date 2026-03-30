@@ -26,3 +26,6 @@ numpy
 scikit-learn
 
 langchain_core
+
+pydantic
+typing
