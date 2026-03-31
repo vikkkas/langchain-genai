@@ -29,3 +29,5 @@ langchain_core
 
 pydantic
 typing
+
+grandalf
